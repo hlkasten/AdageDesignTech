@@ -195,8 +195,8 @@ li a {
 }
 
 .button:hover{
-	background-color: white;
-  	color: black;
+	background-color: #a8c7ba;
+  	color: #cc9f33;
 	font-weight: bold;
 }
 	
