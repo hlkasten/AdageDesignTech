@@ -63,7 +63,7 @@ p {
 }
 
 a{
-	color: white;
+	color: #4b766a;
 }
 
 a:hover{
@@ -181,7 +181,7 @@ li a {
 }
 
 .button{
-	background-color: black;
+	background-color: #4b766a;
   	border: none;
   	color: white;
   	padding: 15px 32px;
