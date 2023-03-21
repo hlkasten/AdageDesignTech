@@ -237,7 +237,7 @@ li a {
 	text-shadow: 5px 5px 15px black;
 }
 .main-printing:hover{
-	background: black;
+	background: #fdf0eb;
   	color: white;
 	border-radius: 50%;
 }
@@ -257,7 +257,7 @@ li a {
 }
 
 .main-coating:hover{
-	background: black;
+	background: #fdf0eb;
   	color: white;
 	border-radius: 50%;
 }
@@ -277,7 +277,7 @@ li a {
 }
 
 .main-converting:hover{
-	background: black;
+	background: #fdf0eb;
   	color: white;
 	border-radius: 50%;
 }
@@ -297,7 +297,7 @@ li a {
 }
 
 .main-design:hover{
-	background: black;
+	background: #fdf0eb;
   	color: white;
 	border-radius: 50%;
 }
