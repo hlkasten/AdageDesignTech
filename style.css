@@ -108,7 +108,7 @@ li a {
 
 #main_image {
 	grid-column: 1/4;
-	background-image: url(images/paper-convert-hero-2.png);
+	background-image: url(paper-convert-hero-2.png);
 	background-repeat: no-repeat;
 	width: 100%;
 	min-height: auto;
@@ -123,7 +123,7 @@ li a {
 
 #main_image-2 {
 	grid-column: 1/4;
-	background-image: url(images/conversation-started-3.png);
+	background-image: url(conversation-started-3.png);
 	background-repeat: no-repeat;
 	width: 100%;
 	min-height: auto;
@@ -163,7 +163,7 @@ li a {
 }
 #flexo_image {
 	grid-column: 1/4;
-	background-image: url(images/flexo-banner.png);
+	background-image: url(flexo-banner.png);
 	background-repeat: no-repeat;
 	width: 100%;
 	min-height: auto;
@@ -224,7 +224,7 @@ li a {
 }
 
 .main-printing{
-	background-image: url(images/printing-circle.png);
+	background-image: url(printing-circle.png);
 	background-repeat: no-repeat;
 	grid-column: 1/2;
 	margin: 5px;
@@ -243,7 +243,7 @@ li a {
 }
 
 .main-coating{
-	background-image: url(images/coating-circle.png);
+	background-image: url(coating-circle.png);
 	background-repeat: no-repeat;
 	grid-column: 2/3;
 	margin: 5px;
@@ -263,7 +263,7 @@ li a {
 }
 
 .main-converting{
-	background-image: url(images/converting-circle.png);
+	background-image: url(converting-circle.png);
 	background-repeat: no-repeat;
 	grid-column: 3/4;
 	margin: 5px;
@@ -283,7 +283,7 @@ li a {
 }
 
 .main-design{
-	background-image: url(images/design-circle.png);
+	background-image: url(design-circle.png);
 	background-repeat: no-repeat;
 	grid-column: 4/5;
 	margin: 5px;
