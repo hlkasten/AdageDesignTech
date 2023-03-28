@@ -72,7 +72,6 @@ a:hover{
 
 header {
 	grid-column: 1/3;
-	background: black;
 	padding: 5px;
 	position: fixed;
 	top: 0;
